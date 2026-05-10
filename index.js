@@ -1,4 +1,4 @@
-console.log("Hello, I am Nanthini!");
-for(var i=0;i<5;i++){
-    console.log("Nanthini");
+console.log("Hello,Git!");
+for(var i=0;i<4;i++){
+    console.log("Nanjundeswari");
 }
